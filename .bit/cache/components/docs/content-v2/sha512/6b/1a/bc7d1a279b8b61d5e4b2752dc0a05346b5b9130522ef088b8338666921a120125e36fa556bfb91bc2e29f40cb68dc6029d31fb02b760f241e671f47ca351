@@ -1,0 +1,1 @@
+[{"filePath":"button.js","name":"StyledButton","description":"","properties":[{"name":"title","description":"button title","required":true,"type":"string"},{"name":"onClick","description":"on click function","required":true,"type":"function"}],"access":"public","methods":[],"args":[],"examples":[]}]

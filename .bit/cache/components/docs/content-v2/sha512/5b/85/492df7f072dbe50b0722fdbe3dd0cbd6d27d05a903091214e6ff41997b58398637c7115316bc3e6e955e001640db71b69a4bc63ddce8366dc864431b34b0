@@ -1,0 +1,1 @@
+[{"filePath":"jumbotron.js","name":"Jumbotron","description":"","properties":[{"name":"title","description":"post title","required":true,"type":"string"},{"name":"description","description":"date","required":true,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]

@@ -1,0 +1,17 @@
+.base {
+  cursor: pointer;
+  color: white;
+  font-size: 1em;
+  margin: 1em;
+  padding: 0.25em 1em;
+  background: #0C7DF7;
+  &:disabled {
+    border-color: #a5a5a5;
+    background-color: #a5a5a5;
+    cursor: not-allowed;
+  }
+}
+
+.secondary {
+  background: #DB7093;
+}
